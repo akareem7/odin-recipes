@@ -1,0 +1,1 @@
+I had fun with this project and am proud to say that I finally built my first real website! Just gotta ass some CSS and maybe a touch of javascript when I learn it but so far I'm proud of what I created
